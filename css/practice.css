@@ -1,0 +1,33 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: #2a2a91;
+    text-align: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul{
+    margin-left: 20px; */
+/* }
+ .kelvin{
+    color: white;
+    background-color: brown;
+ } */
